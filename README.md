@@ -1,5 +1,5 @@
 # About:
-Click here to see what I need to do before I go to New York for the first time. 
+Click here to see what I need to do before I go to New York for the first time: https://heatherbryson.github.io/ToDo-List/
 
 This is an exercise created for MIT xPro Full Stack Professional Certificate in Coding.
 
